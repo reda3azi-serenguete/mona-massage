@@ -27,7 +27,7 @@ export default function MassageLanding() {
         <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Leaf className="w-8 h-8 text-emerald-400" />
-            <span className="text-2xl font-bold">Serenity</span>
+            <span className="text-2xl font-bold">Mona Massage</span>
           </div>
           <a href="#book" className="bg-emerald-500 hover:bg-emerald-600 px-6 py-2 rounded-lg font-semibold transition">
             Book Now
@@ -475,7 +475,7 @@ export default function MassageLanding() {
             <div className="flex items-start gap-4 mb-8">
               <MapPin className="w-6 h-6 text-emerald-400 flex-shrink-0 mt-1" />
               <div>
-                <p className="font-bold text-lg">Serenity Wellness Center</p>
+                <p className="font-bold text-lg">Mona Massage Center</p>
                 <p className="text-gray-400">258 Healing Lane</p>
                 <p className="text-gray-400">Wellness City, ST 12345</p>
                 <p className="text-emerald-400 font-semibold mt-2">(555) 123-4567</p>
@@ -527,7 +527,7 @@ export default function MassageLanding() {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Leaf className="w-6 h-6 text-emerald-400" />
-                <span className="font-bold">Serenity</span>
+                <span className="font-bold">Mona Massage</span>
               </div>
               <p className="text-sm text-gray-400">Wellness • Healing • Transformation</p>
             </div>
@@ -557,7 +557,7 @@ export default function MassageLanding() {
             </div>
           </div>
           <div className="border-t border-purple-500/20 pt-8 text-center text-gray-400 text-sm">
-            <p>© 2026 Serenity Wellness. All rights reserved.</p>
+            <p>© 2026 Mona Massage. All rights reserved.</p>
             <p className="mt-2">Heal • Relax • Transform</p>
           </div>
         </div>
