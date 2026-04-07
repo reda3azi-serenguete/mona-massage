@@ -1,9 +1,9 @@
 import React from 'react'
-import LandingHome from './pages/LandingHome'
+import MassageLanding from './pages/MassageLanding'
 import './App.css'
 
 function App() {
-  return <LandingHome />
+  return <MassageLanding />
 }
 
 export default App
